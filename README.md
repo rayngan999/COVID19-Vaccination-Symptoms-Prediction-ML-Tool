@@ -1,7 +1,3 @@
-# ecs171-group10
-
-Due May 26
-
 ## Project Setup
 0. Create pipenv and activate
   ```bash
